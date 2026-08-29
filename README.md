@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Abstract modernist banner" src="./assets/banner-light.svg" width="100%">
-</picture>
-
 <div align="center">
 
 # Timur Kulagin
@@ -42,3 +36,4 @@
 
 - **[Omega-3 docosahexaenoic acid as a promising inducer of ferroptosis: dynamics of action in prostate and colorectal cancer models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gYgCyLsAAAAJ&citation_for_view=gYgCyLsAAAAJ:u-x6o8ySG0sC)**  
   *Doklady Biochemistry and Biophysics* 520(1), 25–28 (2025)
+
